@@ -1,0 +1,23 @@
+.answer {
+  color: red;
+  font-size: 30px;
+  background-color: aquamarine;
+}
+
+#image {
+  display: none;
+}
+
+#image img {
+  margin: 20px;
+  height: 300px;
+}
+
+#photo {
+  display: none;
+}
+
+#photo img {
+  margin: 20px;
+  height: 300px;
+}
