@@ -30,5 +30,6 @@ document.querySelector('#submit').addEventListener('click', function () {
     document.querySelector(
       '.answer'
     ).innerHTML = `აჰა, ბედკრული საქართველოს შვილი, ირმა ვირიშვილი!`;
+    document.querySelector('#image').style.display = 'block';
   }
 });
